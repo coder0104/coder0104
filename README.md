@@ -1,14 +1,16 @@
-# Hahaha
+<h1 align="left">Hahaha</h1>
 
-### 🛠️ Tech Stack (기술 스택)
-![Python](https://shields.io)
-![Dart](https://shields.io)
-![JavaScript](https://shields.io)
-![C#](https://shields.io)
+<h3>-.-</h3>
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Dart" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="C#" />
+</p>
 
----
+<hr />
 
-### 📈 GitHub Stats (React Theme)
+<h3>📈 GitHub Stats (React Theme)</h3>
 <p align="center">
   <img src="https://vercel.app" alt="GitHub Stats" height="180" />
   <img src="https://vercel.app" alt="Top Langs" height="180" />
