@@ -1,4 +1,4 @@
-# HAHAHA
+# Hahaha
 
 ### 🛠️ Tech Stack (기술 스택)
 ![Python](https://shields.io)
